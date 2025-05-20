@@ -1,5 +1,19 @@
 # 🧠  US Census Income Analysis using Orange
+================
+**Author: Christian Ifashe** | **date: 2025-02-20**
 
+## 📚 Table of Contents
+
+- [📁 Datasets Used](#-datasets-used)
+- [🔍 Project Overview](#-project-overview)
+  - [1. 🧹 Data Preprocessing](#1--data-preprocessing)
+  - [2. ⚖️ Fairness in Income Distribution](#2--fairness-in-income-distribution)
+  - [3. 🤖 Income Prediction](#3--income-prediction)
+  - [4. 🗳️ US Election Demographics](#4--us-election-demographics)
+  - [5. 🔬 Independent Data Mining Investigation](#5--independent-data-mining-investigation)
+- [📝 Notes](#-notes)
+
+## Introduction
 Welcome to my data mining project. This project explores income patterns and demographic factors using anonymized US census data. The entire analysis was conducted using the **Orange Data Mining** platform, which allowed for a code-free, visual approach to data mining and interpretation.
 
 ## 📁 Datasets Used
