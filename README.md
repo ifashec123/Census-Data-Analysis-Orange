@@ -18,9 +18,9 @@ Welcome to my data mining project. This project explores income patterns and dem
 The project report can be accessed [here](https://github.com/ifashec123/Census-Data-Analysis-Orange/blob/main/dataminingcw_report_2.pdf)
 
 ## 📁 Datasets Used
-- `Census_data.csv`: Contains demographic and income data for individuals in the US.
-- `Attribute_values.csv`: Maps numerical attribute codes to human-readable labels.
-- `voting_2020.csv`: Provides state-level results for the 2020 US presidential election.
+- `Census_data.csv`: Contains demographic and income data for individuals in the US. (9 x 1.04 million)
+- `Attribute_values.csv`: Maps numerical attribute codes to human-readable labels. (2 x 856)
+- `voting_2020.csv`: Provides state-level results for the 2020 US presidential election. (15 x 548)
 
 ## 🔍 Project Overview
 
