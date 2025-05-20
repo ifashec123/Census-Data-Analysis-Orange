@@ -1,5 +1,5 @@
 # 🧠  US Census Income Analysis using Orange
-================
+
 **Author: Christian Ifashe** | **date: 2025-02-20**
 
 ## 📚 Table of Contents
