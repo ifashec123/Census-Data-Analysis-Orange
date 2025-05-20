@@ -1,1 +1,53 @@
-orange
+# 🧠  US Census Income Analysis using Orange
+
+Welcome to my data mining project. This project explores income patterns and demographic factors using anonymized US census data. The entire analysis was conducted using the **Orange Data Mining** platform, which allowed for a code-free, visual approach to data mining and interpretation.
+
+## 📁 Datasets Used
+- `Census_data.csv`: Contains demographic and income data for individuals in the US.
+- `Attribute_values.csv`: Maps numerical attribute codes to human-readable labels.
+- `voting_2020.csv`: Provides state-level results for the 2020 US presidential election.
+
+## 🔍 Project Overview
+
+This project involved several stages of analysis, with a focus on both descriptive and predictive data mining tasks. The core components of the project include:
+
+### 1. 🧹 Data Preprocessing
+- Reduced the dataset to 5,000 records for faster computation.
+- Decoded numeric attributes into readable formats (e.g., states, race, sex).
+- Handled missing data and outliers.
+- Grouped and recoded features such as education, occupation, and place of birth.
+- Conducted exploratory data analysis using visualizations and summary statistics.
+
+### 2. ⚖️ Fairness in Income Distribution
+- Visualized income and log-income distributions using histograms and Zipf plots.
+- Investigated income disparities by sex, race (white vs. non-white), and birthplace (US vs. non-US).
+- Performed statistical t-tests to assess bias significance.
+- Analyzed correlations between income/log-income and age, hours worked, and education.
+
+### 3. 🤖 Income Prediction
+- Explored the relationship between income and years of education.
+- Estimated average monetary gains per year of education.
+- Created a binary income classification: "low income" vs. "high income".
+- Trained and compared at least 5 classification models.
+- Performed feature ranking and model explainability using SHAP and permutation importance.
+- Assessed alignment between explainability results and feature rankings.
+
+### 4. 🗳️ US Election Demographics
+- Mapped 2020 election results, mean income, and educational attainment by state.
+- Visually compared geographic patterns across variables.
+- Tested the hypotheses:
+  - "Low-income states voted for Trump."
+  - "States with high educational attainment voted for Biden."
+
+### 5. 🔬 Independent Data Mining Investigation
+- Developed and tested an original hypothesis using the dataset.
+- Applied relevant visual, statistical, and modeling techniques.
+- Justified methodological choices and used rigorous statistical validation.
+
+## 📝 Notes
+- All analysis was conducted using **Orange**, a visual data mining tool.
+- Screenshots of results (not step-by-step) are included in the report to verify outcomes.
+
+---
+
+Thank you for exploring this project! Feel free to browse the files and visuals to see how data mining techniques can uncover patterns in socioeconomic data.
