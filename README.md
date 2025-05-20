@@ -15,7 +15,7 @@
 
 ## Introduction
 Welcome to my data mining project. This project explores income patterns and demographic factors using anonymized US census data. The entire analysis was conducted using the **Orange Data Mining** platform.
-The project report can be accessed [here]()
+The project report can be accessed [here](https://github.com/ifashec123/Census-Data-Analysis-Orange/blob/main/dataminingcw_report_2.pdf)
 
 ## 📁 Datasets Used
 - `Census_data.csv`: Contains demographic and income data for individuals in the US.
@@ -63,7 +63,7 @@ This project involved several stages of analysis, with a focus on both descripti
 - All analysis was conducted using **Orange**, a visual data mining tool.
 - Screenshots of results (not step-by-step) are included in the report to verify outcomes.
 
-Heres a link to the [project report]()
+Heres a link to the [project report](https://github.com/ifashec123/Census-Data-Analysis-Orange/blob/main/dataminingcw_report_2.pdf)
 ---
 
 Thank you for exploring this project! Feel free to browse the files and visuals to see how data mining techniques can uncover patterns in socioeconomic data.
